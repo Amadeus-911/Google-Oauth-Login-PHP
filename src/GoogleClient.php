@@ -4,7 +4,6 @@ namespace RedDot\GoogleOauthLoginPhp;
 
 class GoogleClient
 {
-
     private $client_id;
     private $client_secret;
     private $redirect_uri;
